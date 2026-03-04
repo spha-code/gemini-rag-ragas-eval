@@ -1,0 +1,19 @@
+[project]
+name = "gemini-rag-ragas-eval"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "datasets>=4.6.1",
+    "faiss-cpu>=1.13.2",
+    "google-genai>=1.65.0",
+    "google-generativeai>=0.8.6",
+    "jupyterlab>=4.5.5",
+    "langchain>=1.2.10",
+    "langchain-core>=1.2.17",
+    "langchain-google-genai>=4.2.1",
+    "litellm>=1.82.0",
+    "python-dotenv>=1.2.2",
+    "ragas>=0.4.3",
+]
