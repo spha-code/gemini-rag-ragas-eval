@@ -15,7 +15,7 @@ gemini rag project with ragas evaluation
 
 GOOGLE_API_KEY=your_actual_39_character_key_here
 
-add .env in .gitignore
+add ```.env``` in ```.gitignore```
 
 
 
