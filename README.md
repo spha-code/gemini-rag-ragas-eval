@@ -11,9 +11,11 @@ gemini rag project with ragas evaluation
 
 ```uv add ragas google-generativeai langchain-google-genai faiss-cpu datasets python-dotenv jupyterlab```
 
-#### create a .env file and store gemini API Key
+#### create .env file and store gemini API Key - add .gitignore
 
 GOOGLE_API_KEY=your_actual_39_character_key_here
+
+add .env in .gitignore
 
 
 
