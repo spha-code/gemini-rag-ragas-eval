@@ -1,0 +1,26 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# Secrets (Crucial for this project!)
+.env
+
+# Ragas/Datasets cache
+.ragas/
+.cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints*/
+
+# Distribution / Packaging
+dist/
+build/
+*.egg-info/
